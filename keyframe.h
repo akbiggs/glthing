@@ -1,5 +1,4 @@
 /***********************************************************
-             CSC418, FALL 2009
  
                  keyframe.h
                  author: Mike Pratscher
@@ -42,6 +41,7 @@ public:
 		   L_ELBOW,
 		   R_KNEE,
 		   L_KNEE,
+                   LIGHT_ANGLE,
 		   NUM_JOINT_ENUM };
 
 	// constructor
